@@ -70,5 +70,23 @@
         "myquizappe87147c3": {}
       }
     }
+  },
+  "shaashi": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myquizapp-shaashi-ffb71-authRole",
+      "UnauthRoleArn": "arn:aws:iam::597497390093:role/amplify-myquizapp-shaashi-ffb71-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::597497390093:role/amplify-myquizapp-shaashi-ffb71-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-myquizapp-shaashi-ffb71-deployment",
+      "UnauthRoleName": "amplify-myquizapp-shaashi-ffb71-unauthRole",
+      "StackName": "amplify-myquizapp-shaashi-ffb71",
+      "StackId": "arn:aws:cloudformation:us-east-1:597497390093:stack/amplify-myquizapp-shaashi-ffb71/71c0b8f0-1562-11f1-917f-129b1c47b1f9",
+      "AmplifyAppId": "d24rs7v4c1xz3e"
+    },
+    "categories": {
+      "auth": {
+        "myquizappe87147c3": {}
+      }
+    }
   }
 }
