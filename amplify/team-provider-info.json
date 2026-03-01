@@ -16,5 +16,23 @@
         "myquizappe87147c3": {}
       }
     }
+  },
+  "stage": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myquizapp-stage-6ee3f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::597497390093:role/amplify-myquizapp-stage-6ee3f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::597497390093:role/amplify-myquizapp-stage-6ee3f-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-myquizapp-stage-6ee3f-deployment",
+      "UnauthRoleName": "amplify-myquizapp-stage-6ee3f-unauthRole",
+      "StackName": "amplify-myquizapp-stage-6ee3f",
+      "StackId": "arn:aws:cloudformation:us-east-1:597497390093:stack/amplify-myquizapp-stage-6ee3f/394491e0-1553-11f1-98a8-1200f489a679",
+      "AmplifyAppId": "d2q89qu6ow17xv"
+    },
+    "categories": {
+      "auth": {
+        "myquizappe87147c3": {}
+      }
+    }
   }
 }
